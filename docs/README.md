@@ -371,6 +371,93 @@ Permite a vizualização dinâmica da localização dos blocos cadastrados no si
 
 ![Tela de Funcionalidade](files/printMapaBlocos.png)
 
+##### Funcionalidade 5 - Mapa de denuncia
+
+Permite a vizualização dinâmica da localização das denuncias feitas atraves do site e através da API do Google Maps inserida na nossa aplicação.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito.
+  * Acessar a página de denuncia clicando no icone de "denuncia" na barra lateral da página.
+  * Na página além de somente vizualizar as denunciar tambem pode se interagir com o mapa de duas formas: Clicar nos marcadores e acessar mais informações sobre a denuncia, além de possibilitar o usuario fazer a propria denuncia.
+* **Tela da funcionalidade**:
+
+![Tela de Funcionalidade](files/printMapaDenuncias.png)
+
+##### Funcionalidade 6 - Aba de comentarios do folião
+
+Permite a vizualização dinâmica dos comentarios feitas atraves do site.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito pelo folião.
+  * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e clicar em saiba mais erferente ao bloco em que o usuario deseja realizar o comentario
+  * Na página além de vizualizar os comentarios feito por outros usuarios,a avaliação de estrelas e a data que foi realizada o comentario o usuario tambem consegue avaliar com estrelas que variam de 0-5 e deixa o proprio comentario
+* **Tela da funcionalidade**:
+
+![Tela de Funcionalidade](files/printAbaComentariosFoliao.png)
+
+##### Funcionalidade 7 - Aba de comentarios do Organizador
+
+Permite a vizualização e interação dinâmica dos comentarios feitas atraves do site.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito pelo organizador.
+  * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página.
+  * Nessa página além de vizualizar os comentarios feito por outros usuarios,a avaliação de estrelas e a data que foi realizada o comentario o organizador do bloco pode enteragir com o folião que realizou o comentario,ou seja o organizador consegue responder os comentarios
+
+![Tela de Funcionalidade](files/printAbaComentariosOrg.png)
+
+##### Funcionalidade 8 - Aba adicionar imagem sobre o bloco.
+
+Permite a publicação de fotos para incrementar a pagina do bloco no site.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito pelo organizador.
+  * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e acessar o botão "+" no canto inferior direito.
+  * Nessa página o organizador do bloco vai conseguir adicionar varias imagem para ir de acordo com o seu bloco e tambem uma descrição sobre essas foto de no max 160 caracteres.
+
+![Tela de Funcionalidade](files/printAddImagem.png)
+
+##### Funcionalidade 8 - Aba em que o usuario pode editar as suas informações.
+
+Permite que o usuario edite algumas de suas informações armazenadas no site.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito pelo folião.
+  * Acessar a página do usuario clicando no icone de "usuario" na barra lateral da página.
+  * Nessa página o usuario vai conseguir editar algumas informações sobre ele como:Nome completo,Login,Data de nascimento,Email e senha.Nessa pagina o usuario tambem pode excluir usa conta ou simplemente sair dela.
+
+![Tela de Funcionalidade](files/printedicaoUsuarioComum.png)
+
+
+##### Funcionalidade 8 - Aba em que o folião pode procurar por blocos.
+
+Permite que o usuario pesquise por blocos.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito pelo folião.
+  * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página.
+  * Nessa página o usuario vai conseguir vizualizar 6 blocos,nessa visualização o usario tambem consegue ver o nome do bloco,sua cliassificação em estrelas e uma breve descrição,e tem uma barra de pesquisa para o usuario possa pesquisar os blocos por nome,nessa Barra de pesquisa tambem tem a pesquisa por filtro em que o usuario consegue filtrar a sua pesquisa do bloco.O filtro e sobre Avaliação,Data,Estilo musical,Publico esperado e Faixa Etaria,permitindo com que assim o usuario possa direcionar sua pesquisa para um foco especifico.
+
+![Tela de Funcionalidade](files/printPesquisaBlocos.png) &  ![Tela de Funcionalidade](files/printPesquisaBlocos2.png)
+
+##### Funcionalidade 9 - Aba em que o folião pode procurar por blocos.
+
+Permite o usuario sair da sua conta e vizualizar o clima e temperatura através da API do Google Maps inserida na nossa aplicação.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito.
+  * Acessar a página principal da aplicação.
+  * Nessa página tanto para foliçao e organizadores vão conseguir sair do seu perfil ao passar o mouse em cima do icone de usario no canto superior direito e tambem mostra o clima e a temperatura
+
+![Tela de Funcionalidade](files/printLogout&APIclima.png)
+
 ##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
 
 Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
