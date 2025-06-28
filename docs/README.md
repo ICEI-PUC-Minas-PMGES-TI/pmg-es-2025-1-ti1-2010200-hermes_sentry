@@ -458,6 +458,33 @@ Permite o usuario sair da sua conta e vizualizar o clima e temperatura através 
 
 ![Tela de Funcionalidade](files/printLogout&APIclima.png)
 
+##### Funcionalidade 10 - Aba em que o usuario seleciona o tipo de cadastro.
+
+Permite o usuario realizar o cadasrto do bloco ou de folião.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o usuario quer criar uma conta.
+  * Passar primeiramente pela tentativa de login
+  * Inserir campos validos
+
+![Tela de Funcionalidade](files/printTipoCadastro.png)
+
+##### Funcionalidade 11 - Aba em que o folião pode saber mais sobre o bloco escolhido.
+
+Permite o usuario saber mais sobre o bloco escolhido que o organizador inseriu na nossa aplicação.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito.
+  * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e selecionar o bloco em seguida clicar em "ver mais".
+  * Nessa página o usuario vai conseguir vizualizar as informações colocadas pelo organizador,como imagens,comentarios,descrições,publico alvo,faixa etario,localização,o usuario tambem consegue vizualizar os comentarios realizados por outros usuarios e a classificação em estrelas desse bloco.
+
+![Tela de Funcionalidade](files/printPaginaBlocos.png)
+
+
+
+
 ##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
 
 Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
