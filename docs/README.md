@@ -421,7 +421,19 @@ Permite a publicação de fotos para incrementar a pagina do bloco no site.
 
 ![Tela de Funcionalidade](files/printAddImagem.png)
 
-##### Funcionalidade 8 - Aba em que o usuario pode editar as suas informações.
+##### Funcionalidade 9 - Aba em que o organizador edita suas informações pessoais.
+
+Permite que o usuario edite algumas de suas informações armazenadas no site.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito pelo organizador.
+  * Acessar a página do usuario clicando no icone de "usuario" na barra lateral da página.
+  * Nessa página o usuario vai conseguir editar algumas informações sobre ele como:Nome completo,CNPJ,Email e senha.Nessa pagina o usuario tambem pode excluir usa conta ou simplemente sair dela.
+
+![Tela de Funcionalidade](files/printeditUsuarioOrg.png)
+
+##### Funcionalidade 10 - Aba em que o usuario pode editar as suas informações.
 
 Permite que o usuario edite algumas de suas informações armazenadas no site.
 
@@ -431,10 +443,9 @@ Permite que o usuario edite algumas de suas informações armazenadas no site.
   * Acessar a página do usuario clicando no icone de "usuario" na barra lateral da página.
   * Nessa página o usuario vai conseguir editar algumas informações sobre ele como:Nome completo,Login,Data de nascimento,Email e senha.Nessa pagina o usuario tambem pode excluir usa conta ou simplemente sair dela.
 
-![Tela de Funcionalidade](files/printedicaoUsuarioComum.png)
+![Tela de Funcionalidade](files/printEditUsuarioComum.png)
 
-
-##### Funcionalidade 8 - Aba em que o folião pode procurar por blocos.
+##### Funcionalidade 11 - Aba em que o folião pode procurar por blocos.
 
 Permite que o usuario pesquise por blocos.
 
@@ -446,7 +457,7 @@ Permite que o usuario pesquise por blocos.
 
 ![Tela de Funcionalidade](files/printPesquisaBlocos.png) &  ![Tela de Funcionalidade](files/printPesquisaBlocos2.png)
 
-##### Funcionalidade 9 - Aba em que o folião pode procurar por blocos.
+##### Funcionalidade 12 - Aba em que o folião pode procurar por blocos.
 
 Permite o usuario sair da sua conta e vizualizar o clima e temperatura através da API do Google Maps inserida na nossa aplicação.
 
@@ -458,7 +469,7 @@ Permite o usuario sair da sua conta e vizualizar o clima e temperatura através 
 
 ![Tela de Funcionalidade](files/printLogout&APIclima.png)
 
-##### Funcionalidade 10 - Aba em que o usuario seleciona o tipo de cadastro.
+##### Funcionalidade 13 - Aba em que o usuario seleciona o tipo de cadastro.
 
 Permite o usuario realizar o cadasrto do bloco ou de folião.
 
@@ -470,7 +481,7 @@ Permite o usuario realizar o cadasrto do bloco ou de folião.
 
 ![Tela de Funcionalidade](files/printTipoCadastro.png)
 
-##### Funcionalidade 11 - Aba em que o folião pode saber mais sobre o bloco escolhido.
+##### Funcionalidade 14 - Aba em que o folião pode saber mais sobre o bloco escolhido.
 
 Permite o usuario saber mais sobre o bloco escolhido que o organizador inseriu na nossa aplicação.
 
@@ -482,7 +493,7 @@ Permite o usuario saber mais sobre o bloco escolhido que o organizador inseriu n
 
 ![Tela de Funcionalidade](files/printPaginaBlocos.png)
 
-##### Funcionalidade 12 - Aba em que o organizador do bloco pode editar e adicionar suas informações sobre o bloco.
+##### Funcionalidade 15 - Aba em que o organizador do bloco pode editar e adicionar suas informações sobre o bloco.
 
 Permite o organizador editar e adicionar suas informações sobre o seu blovo que o mesmo inseriu na nossa aplicação.
 
@@ -494,7 +505,7 @@ Permite o organizador editar e adicionar suas informações sobre o seu blovo qu
 
 ![Tela de Funcionalidade](files/printEditBloco.png)
 
-##### Funcionalidade 12 - Aba em que o usuario pode realizar uma denuncia.
+##### Funcionalidade 16 - Aba em que o usuario pode realizar uma denuncia.
 
 Permite o organizador realizar uma denuncia e inserir na nossa aplicação.
 
@@ -506,174 +517,9 @@ Permite o organizador realizar uma denuncia e inserir na nossa aplicação.
 
 ![Tela de Funcionalidade](files/printCriacaoDenuncia.png)
 
-
-
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printMapaDenuncias.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printCriacaoDenuncia.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printPesquisaBlocos.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printPesquisaBlocos2.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printLogout&APIclima.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printPaginaBlocos.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printAbaComentariosFoliao.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printAbaComentariosOrg.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printAddImagem.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printEditBloco.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](files/printEdicaoUsuarioComum.png)
-
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](images/exemplo-funcionalidade.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente cada uma das funcionalidades que a aplicação fornece tanto para os usuários quanto aos administradores da solução.
->
-> Inclua, para cada funcionalidade, itens como: (1) titulos e descrição da funcionalidade; (2) Estrutura de dados associada; (3) o detalhe sobre as instruções de acesso e uso.
-
 ## Estruturas de Dados
 
-Todas as estruturas descritas estão juntas no mesmo arquivo db.json. Estão funcionando como API Restful por meio do JSON-Server
+Todas as estruturas descritas estão juntas no mesmo arquivo db.json. Estão funcionando como API Restful por meio do node.js.
 
 ##### Estrutura de Dados - Blocos de Carnaval   
 
@@ -814,13 +660,6 @@ Esta seção apresenta os módulos e APIs utilizados na solução
 
 As referências utilizadas no trabalho foram:
 
-* SOBRENOME, Nome do autor. Título da obra. 8. ed. Cidade: Editora, 2000. 287 p ⚠️ EXEMPLO ⚠️
+* CAMBRAIA, Duda. Carnaval em BH: número de blocos cadastrados cresce 220% em 10 anos: prefeitura de belo horizonte espera 6 milhões de foliões durante o período. Prefeitura de Belo Horizonte espera 6 milhões de foliões durante o período. 2025. Disponível em: https://www.cnnbrasil.com.br/nacional/sudeste/mg/carnaval-em-bh-numero-de-blocos-cadastrados-cresce-3116-em-10-anos/. Acesso em: 29 jun. 2025.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
->
-> **Orientações**:
->https://www.cnnbrasil.com.br/nacional/sudeste/mg/carnaval-em-bh-numero-de-blocos-cadastrados-cresce-3116-em-10-anos/
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+* MINAS, Agência. Governo de Minas registra redução em crimes monitorados durante o Carnaval 2025. 2025. Disponível em: https://www.seguranca.mg.gov.br/index.php/noticias/governo-de-minas-registra-reducao-em-crimes-monitorados-durante-o-carnaval-2025-como-homicidios-roubos-e-importunacao-sexual. Acesso em: 29 jun. 2025.
