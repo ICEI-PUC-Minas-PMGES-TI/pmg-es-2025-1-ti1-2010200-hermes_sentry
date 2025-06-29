@@ -260,6 +260,7 @@ Ao entrar no site ele é direcionado a criar uma conta ou fazer login. Tendo op�
 ![Fluxo de Telas](files/printFluxoTelas1.png)
 
 Fluxo de Telas para Foliões
+
 ![](files/printFluxoTelas2.png)
 
 Fluxo de telas para Organizadores de bloco (algumas telas dos foliões estão disponíveis para eles)
