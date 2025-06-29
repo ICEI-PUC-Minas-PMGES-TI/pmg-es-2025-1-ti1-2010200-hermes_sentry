@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function () {
           response = await usuariosService.excluirUsuario(id);
         }
 
-        if (response.ok) {
+        if (response) {
           sessionStorage.removeItem('usuarioCorrente');
           window.location.href = 'login.html';
         } else {
@@ -162,12 +162,6 @@ document.addEventListener('DOMContentLoaded', function () {
         alert('Erro ao excluir conta. Tente novamente.');
       }
     }
-  });
-
-  // Botão de sair
-  document.getElementById('meuBotao').addEventListener('click', function () {
-    sessionStorage.removeItem('usuarioCorrente');
-    window.location.href = 'login.html';
   });
 
   // Inicializar a página
