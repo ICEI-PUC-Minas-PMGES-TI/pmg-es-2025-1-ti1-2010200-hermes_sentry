@@ -258,8 +258,10 @@ Tela de informações do bloco, permite que o organizador acesse e altere as con
 ### User Flow
 Ao entrar no site ele é direcionado a criar uma conta ou fazer login. Tendo opção entre dois tipos de perfil: Folião ou Organizador
 ![Fluxo de Telas](files/printFluxoTelas1.png)
+
 Fluxo de Telas para Foliões
 ![](files/printFluxoTelas2.png)
+
 Fluxo de telas para Organizadores de bloco (algumas telas dos foliões estão disponíveis para eles)
 ![](files/printFluxoTelas3.png)
 
@@ -334,13 +336,13 @@ Permite a criação de usuários comuns dentro da nossa aplicação. Os dados s�
   * Crie uma conta com todos os dados exigidos. 
 * **Tela da funcionalidade**:
 
-![Cadastro](files/printCadastroFoliao.png)
+![](files/printCadastroFoliao.png)
 
 ##### Funcionalidade 2 - Cadastro de Organizadores de blocos 
 
 Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval))
 * **Instruções de acesso:**
   * Abra o site na tela principal e clique em login no canto superior direito. (será encaminhado para página de login)
   * Na página de login, selecione o botão "criar conta". Duas opções apareceram selecione o botão "organizador"
@@ -353,7 +355,7 @@ Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
 
 Permite o usuário logar em sua conta e iniciar o uso do restante do site (antes fica bloqueado). Os dados o usuário logado são passados pelo sessionStorage para as outras páginas.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Usuario ou Blocos]([#ti_ed_contatos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval))
 * **Instruções de acesso:**
   * Abra o site na tela principal e clique em login no canto superior direito. (será encaminhado para página de login)
   * Na página de login, preencha os dados solicitados e aperte enter para continuar
@@ -366,7 +368,7 @@ Permite o usuário logar em sua conta e iniciar o uso do restante do site (antes
 
 Permite a vizualização dinâmica da localização dos blocos cadastrados no site através da API do Google Maps inserida na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval))
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página do mapa clicando no icone de "casa" na barra lateral da página.
@@ -379,7 +381,7 @@ Permite a vizualização dinâmica da localização dos blocos cadastrados no si
 
 Permite a vizualização dinâmica da localização das denuncias feitas atraves do site e através da API do Google Maps inserida na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Denúncia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---den%C3%BAncias)
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página de denuncia clicando no icone de "denuncia" na barra lateral da página.
@@ -392,7 +394,7 @@ Permite a vizualização dinâmica da localização das denuncias feitas atraves
 
 Permite a vizualização dinâmica dos comentarios feitas atraves do site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Comentários](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---coment%C3%A1rios)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo folião.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e clicar em saiba mais erferente ao bloco em que o usuario deseja realizar o comentario
@@ -405,7 +407,7 @@ Permite a vizualização dinâmica dos comentarios feitas atraves do site.
 
 Permite a vizualização e interação dinâmica dos comentarios feitas atraves do site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Comentários](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---coment%C3%A1rios)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo organizador.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página.
@@ -417,7 +419,7 @@ Permite a vizualização e interação dinâmica dos comentarios feitas atraves 
 
 Permite a publicação de fotos para incrementar a pagina do bloco no site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo organizador.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e acessar o botão "+" no canto inferior direito.
@@ -429,7 +431,7 @@ Permite a publicação de fotos para incrementar a pagina do bloco no site.
 
 Permite que o usuario edite algumas de suas informações armazenadas no site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo organizador.
   * Acessar a página do usuario clicando no icone de "usuario" na barra lateral da página.
@@ -441,7 +443,7 @@ Permite que o usuario edite algumas de suas informações armazenadas no site.
 
 Permite que o usuario edite algumas de suas informações armazenadas no site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Usuários](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---usu%C3%A1rios-foli%)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo folião.
   * Acessar a página do usuario clicando no icone de "usuario" na barra lateral da página.
@@ -453,7 +455,7 @@ Permite que o usuario edite algumas de suas informações armazenadas no site.
 
 Permite que o usuario pesquise por blocos.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo folião.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página.
@@ -465,7 +467,7 @@ Permite que o usuario pesquise por blocos.
 
 Permite o usuario sair da sua conta e vizualizar o clima e temperatura através da API do Google Maps inserida na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página principal da aplicação.
@@ -477,7 +479,6 @@ Permite o usuario sair da sua conta e vizualizar o clima e temperatura através 
 
 Permite o usuario realizar o cadasrto do bloco ou de folião.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
 * **Instruções de acesso:**
   * Garanta que o usuario quer criar uma conta.
   * Passar primeiramente pela tentativa de login
@@ -489,7 +490,7 @@ Permite o usuario realizar o cadasrto do bloco ou de folião.
 
 Permite o usuario saber mais sobre o bloco escolhido que o organizador inseriu na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e selecionar o bloco em seguida clicar em "ver mais".
@@ -501,7 +502,7 @@ Permite o usuario saber mais sobre o bloco escolhido que o organizador inseriu n
 
 Permite o organizador editar e adicionar suas informações sobre o seu blovo que o mesmo inseriu na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito por um organizador.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral.
@@ -513,7 +514,7 @@ Permite o organizador editar e adicionar suas informações sobre o seu blovo qu
 
 Permite o organizador realizar uma denuncia e inserir na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Denuncai](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---den%C3%BAncias)
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página das denuncias clicando no icone de "bandeira" na barra lateral.
