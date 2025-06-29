@@ -157,6 +157,32 @@ main section {
     object-fit: cover;
     display: block;
 }
+
+.navegar-container {
+    margin-top: 1.5rem;
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-navegar {
+    background-color: #6B0CB0;
+    color: #FFFFFF;
+    padding: 15px 30px;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+.btn-navegar:hover {
+    background-color: #581c87;
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
 /* Conteudo Principal - Fim */
 
 
