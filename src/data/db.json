@@ -683,7 +683,7 @@
       "login": "Jprado12",
       "data_nasc": "2002-02-12",
       "email": "joaoblabla@gmail.com",
-      "senha": "4124121222",
+      "senha": "345678",
       "chat": {
         "contacts": [
           "Davi Martins da Silva"
@@ -789,6 +789,19 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": 4,
+      "nome_completo": "Lucas Gabriel",
+      "login": "lucass",
+      "email": "lucasfrgabriel@gmail.com",
+      "data_nasc": "2007-01-09",
+      "senha": "12345678",
+      "chat": {
+        "contacts": [],
+        "groups": [],
+        "messages": []
       }
     }
   ],
