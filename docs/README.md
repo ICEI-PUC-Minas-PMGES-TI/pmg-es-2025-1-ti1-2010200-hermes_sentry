@@ -256,8 +256,12 @@ Tela de informações do bloco, permite que o organizador acesse e altere as con
 | ![image](https://github.com/user-attachments/assets/92a8bf41-096c-4bf4-9233-c3c11b8581df) | ![image](https://github.com/user-attachments/assets/4fde05ef-ee13-4de5-9b6b-1db7a209c4d8) |
 
 ### User Flow
-
-**✳️✳️✳️ adicionar user flow atualizado ✳️✳️✳️**
+Ao entrar no site ele é direcionado a criar uma conta ou fazer login. Tendo opção entre dois tipos de perfil: Folião ou Organizador
+![Fluxo de Telas](files/printFluxoTelas1.png)
+Fluxo de Telas para Foliões
+![](files/printFluxoTelas2.png)
+Fluxo de telas para Organizadores de bloco (algumas telas dos foliões estão disponíveis para eles)
+![](files/printFluxoTelas3.png)
 
 ### Protótipo Interativo
 
@@ -323,7 +327,7 @@ Esta seção apresenta as funcionalidades da solução.Info
 
 Permite a criação de usuários comuns dentro da nossa aplicação. Os dados são salvos no nosso db.json.
 
-* **Estrutura de dados:** [Contatos](src/data/db.json/usuarios)
+* **Estrutura de dados:** [Usuários](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---usu%C3%A1rios-foli%)
 * **Instruções de acesso:**
   * Abra o site na tela principal e clique em login no canto superior direito. (será encaminhado para página de login)
   * Na página de login, selecione o botão "criar conta". Duas opções apareceram selecione o botão "folião"
