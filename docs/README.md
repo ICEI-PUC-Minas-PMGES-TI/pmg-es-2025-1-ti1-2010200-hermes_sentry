@@ -482,6 +482,30 @@ Permite o usuario saber mais sobre o bloco escolhido que o organizador inseriu n
 
 ![Tela de Funcionalidade](files/printPaginaBlocos.png)
 
+##### Funcionalidade 12 - Aba em que o organizador do bloco pode editar e adicionar suas informações sobre o bloco.
+
+Permite o organizador editar e adicionar suas informações sobre o seu blovo que o mesmo inseriu na nossa aplicação.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito por um organizador.
+  * Acessar a página dos blocos clicando no icone de "folia" na barra lateral.
+  * Nessa página o usuario vai conseguir vizualizar/adiconar e editar as informações colocadas pelo proprio organizador,como Nome,telefone,data,faixa etaria,endereço,estilo musical e descrição.
+
+![Tela de Funcionalidade](files/printEditBloco.png)
+
+##### Funcionalidade 12 - Aba em que o usuario pode realizar uma denuncia.
+
+Permite o organizador realizar uma denuncia e inserir na nossa aplicação.
+
+* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Instruções de acesso:**
+  * Garanta que o login foi feito.
+  * Acessar a página das denuncias clicando no icone de "bandeira" na barra lateral.
+  * Nessa página o usuario vai conseguir adicionar uma denuncia detalhada sobre o ocorrido com hora,localização de referencia e descrição.
+
+![Tela de Funcionalidade](files/printCriacaoDenuncia.png)
+
 
 
 
