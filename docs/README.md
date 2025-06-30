@@ -281,29 +281,16 @@ API de clima
 | Processo de Design Thinking | Miro       |  https://miro.com/app/board/uXjVIZ5HaSk=/?share_link_id=934339239127 |
 | Repositório de código     | GitHub     | https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry |
 | Protótipo do site         | Figma      | https://www.figma.com/design/lIcNjqnRvlVUjhwUDng2L3/fluxo-de-telas?node-id=0-1&p=f&t=jGkhIGoeICWzf4sn-0 |
-| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
+| Hospedagem do site          | Replit/Render    | https://4521cbe0-87ae-477b-b12d-f4d83123d83d-00-3jizewyyl8pen.riker.replit.dev/ --- https://carna-livre.onrender.com/index.html |
 | Protótipo Interativo       | Figma  | https://www.figma.com/proto/lIcNjqnRvlVUjhwUDng2L3/fluxo-de-telas?node-id=0-1&t=YJlqvOI4P2aIrHGR-1   |
 |                             |            |                                                    |
 
 ## Gerenciamento do Projeto
 
-Divisão de papéis no grupo e apresentação da estrutura da ferramenta de controle de tarefas (Kanban).
+Adotamos uma versão adaptada da metodologia scrum, utilizando o GitHub Projects para coordenar e registrar o avanço da equipe. Durante o início do processo realizamos um extenso Design Thinking com diversas etapas como mapeamento de escopo, entrevistas qualitativas, criação de personas, histórias de usuário, brainstorm de ideias, delimitação de funcionalidades e levantamento de requisitos. Já na implementação, a produção foi separada em 3 sprints de 3 a 4 semanas cada. Ao fim de cada sprint eram feitas sprints plannings com os professores para delimitar as funcionalidades as serem implementadas na próxima sprint. Além disso, foram realizadas reuniões semanalmente somente do grupo de desenvolvedores por boa parte do período de desenvolvimento para acompanhamento do progresso e realização de mudanças necessárias. A sprint final (terceira), foi reservada principalmente para o processo de integração de todas as funcionalidades, além da hospedagem do site em plataforma de nuvem e finalização da documentação.
 
-![Exemplo de Kanban](images/exemplo-kanban.png)
+![Kanban final](files/printKaban.jpeg)
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
->
-> **Orientações**:
->
-> - [Sobre Projects - GitHub Docs](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-> - [Gestão de projetos com GitHub | balta.io](https://balta.io/blog/gestao-de-projetos-com-github)
-> - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 # Solução Implementada
 
@@ -311,15 +298,13 @@ Esta seção apresenta todos os detalhes da solução criada no projeto.
 
 ## Vídeo do Projeto
 
-O vídeo a seguir traz uma apresentação do problema que a equipe está tratando e a proposta de solução. ⚠️ EXEMPLO ⚠️
+O video a seguir tenta ilustrar um pouco da importância da nossa aplicação apresentando o contexto de onde tiramos a ideia para aplicação. Após isso temos uma visão geral de todas as funcionalidades implementadas ao longo de todo o tempo de desenvolvimento.
 
-[![Vídeo do projeto](images/video.png)](https://www.youtube.com/embed/70gGoFyGeqQ)
+[![Vídeo do projeto](files/bannercarnalivre.jpeg)](https://drive.google.com/file/d/1V2EU9eWwoIgVM4O7eAaRC25usyNK-P6I/view)
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> O video de apresentação é voltado para que o público externo possa conhecer a solução. O formato é livre, sendo importante que seja apresentado o problema e a solução numa linguagem descomplicada e direta.
->
-> Inclua um link para o vídeo do projeto.
+## Apresentação do Projeto
+
+[![Vídeo do projeto](files/ApresentacaoIMG.png)](https://gamma.app/docs/Carna-Livre-c6op4p8p0dog3ky?mode=doc)
 
 ## Funcionalidades
 
