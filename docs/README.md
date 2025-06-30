@@ -10,7 +10,7 @@ Informações básicas do projeto.
 2. [Henrique Pereira Resende Rocha](https://github.com/Rickyzadas)
 3. [João Prado Campos](https://github.com/Joao-Prado0)
 4. [Lucas Gabriel de Oliveira Franco](https://github.com/lucasfrgabriel)
-5. [Luiz Fernando Cunha Maia](https://github.com/LuizMaia-PUC)
+5. [Luiz Fernando Cunha Maia](https://github.com/Luizfmaia10-dev)
 6. [Pedro Henrique Nogueira Ferreira](https://github.com/PedroHNFerreira)
 
 A documentação do projeto é estruturada da seguinte forma:
@@ -180,8 +180,7 @@ Tela inicial do sistema
 
 Tela para login e/ou cadastro de usuário.
 
-![Login](https://github.com/user-attachments/assets/de26bc62-f8c0-4f5f-8802-b280596cfe06)
-
+![Login](https://github.com/user-attachments/assets/2d343e95-4f73-4aac-9310-66feef439411)
 
 ##### TELA DE CADASTRO: Seleção
 
