@@ -10,7 +10,7 @@ Informações básicas do projeto.
 2. [Henrique Pereira Resende Rocha](https://github.com/Rickyzadas)
 3. [João Prado Campos](https://github.com/Joao-Prado0)
 4. [Lucas Gabriel de Oliveira Franco](https://github.com/lucasfrgabriel)
-5. [Luiz Fernando Cunha Maia](https://github.com/LuizMaia-PUC)
+5. [Luiz Fernando Cunha Maia](https://github.com/Luizfmaia10-dev)
 6. [Pedro Henrique Nogueira Ferreira](https://github.com/PedroHNFerreira)
 
 A documentação do projeto é estruturada da seguinte forma:
@@ -180,8 +180,7 @@ Tela inicial do sistema
 
 Tela para login e/ou cadastro de usuário.
 
-![Login](https://github.com/user-attachments/assets/de26bc62-f8c0-4f5f-8802-b280596cfe06)
-
+![Login](https://github.com/user-attachments/assets/2d343e95-4f73-4aac-9310-66feef439411)
 
 ##### TELA DE CADASTRO: Seleção
 
@@ -258,8 +257,11 @@ Tela de informações do bloco, permite que o organizador acesse e altere as con
 ### User Flow
 Ao entrar no site ele é direcionado a criar uma conta ou fazer login. Tendo opção entre dois tipos de perfil: Folião ou Organizador
 ![Fluxo de Telas](files/printFluxoTelas1.png)
+
 Fluxo de Telas para Foliões
+
 ![](files/printFluxoTelas2.png)
+
 Fluxo de telas para Organizadores de bloco (algumas telas dos foliões estão disponíveis para eles)
 ![](files/printFluxoTelas3.png)
 
@@ -279,29 +281,16 @@ API de clima
 | Processo de Design Thinking | Miro       |  https://miro.com/app/board/uXjVIZ5HaSk=/?share_link_id=934339239127 |
 | Repositório de código     | GitHub     | https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry |
 | Protótipo do site         | Figma      | https://www.figma.com/design/lIcNjqnRvlVUjhwUDng2L3/fluxo-de-telas?node-id=0-1&p=f&t=jGkhIGoeICWzf4sn-0 |
-| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
+| Hospedagem do site          | Replit/Render    | https://4521cbe0-87ae-477b-b12d-f4d83123d83d-00-3jizewyyl8pen.riker.replit.dev/ --- https://carna-livre.onrender.com/index.html |
 | Protótipo Interativo       | Figma  | https://www.figma.com/proto/lIcNjqnRvlVUjhwUDng2L3/fluxo-de-telas?node-id=0-1&t=YJlqvOI4P2aIrHGR-1   |
 |                             |            |                                                    |
 
 ## Gerenciamento do Projeto
 
-Divisão de papéis no grupo e apresentação da estrutura da ferramenta de controle de tarefas (Kanban).
+Adotamos uma versão adaptada da metodologia scrum, utilizando o GitHub Projects para coordenar e registrar o avanço da equipe. Durante o início do processo realizamos um extenso Design Thinking com diversas etapas como mapeamento de escopo, entrevistas qualitativas, criação de personas, histórias de usuário, brainstorm de ideias, delimitação de funcionalidades e levantamento de requisitos. Já na implementação, a produção foi separada em 3 sprints de 3 a 4 semanas cada. Ao fim de cada sprint eram feitas sprints plannings com os professores para delimitar as funcionalidades as serem implementadas na próxima sprint. Além disso, foram realizadas reuniões semanalmente somente do grupo de desenvolvedores por boa parte do período de desenvolvimento para acompanhamento do progresso e realização de mudanças necessárias. A sprint final (terceira), foi reservada principalmente para o processo de integração de todas as funcionalidades, além da hospedagem do site em plataforma de nuvem e finalização da documentação.
 
-![Exemplo de Kanban](images/exemplo-kanban.png)
+![Kanban final](files/printKaban.jpeg)
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
->
-> **Orientações**:
->
-> - [Sobre Projects - GitHub Docs](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-> - [Gestão de projetos com GitHub | balta.io](https://balta.io/blog/gestao-de-projetos-com-github)
-> - [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 # Solução Implementada
 
@@ -309,15 +298,9 @@ Esta seção apresenta todos os detalhes da solução criada no projeto.
 
 ## Vídeo do Projeto
 
-O vídeo a seguir traz uma apresentação do problema que a equipe está tratando e a proposta de solução. ⚠️ EXEMPLO ⚠️
+O video a seguir tenta ilustrar um pouco da importância da nossa aplicação apresentando o contexto de onde tiramos a ideia para aplicação. Após isso temos uma visão geral de todas as funcionalidades implementadas ao longo de todo o tempo de desenvolvimento.
 
-[![Vídeo do projeto](images/video.png)](https://www.youtube.com/embed/70gGoFyGeqQ)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> O video de apresentação é voltado para que o público externo possa conhecer a solução. O formato é livre, sendo importante que seja apresentado o problema e a solução numa linguagem descomplicada e direta.
->
-> Inclua um link para o vídeo do projeto.
+[![Vídeo do projeto](files/videoCarnaLivre.mp4)](https://drive.google.com/file/d/1V2EU9eWwoIgVM4O7eAaRC25usyNK-P6I/view)
 
 ## Funcionalidades
 
@@ -334,13 +317,13 @@ Permite a criação de usuários comuns dentro da nossa aplicação. Os dados s�
   * Crie uma conta com todos os dados exigidos. 
 * **Tela da funcionalidade**:
 
-![Cadastro](files/printCadastroFoliao.png)
+![](files/printCadastroFoliao.png)
 
 ##### Funcionalidade 2 - Cadastro de Organizadores de blocos 
 
 Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval))
 * **Instruções de acesso:**
   * Abra o site na tela principal e clique em login no canto superior direito. (será encaminhado para página de login)
   * Na página de login, selecione o botão "criar conta". Duas opções apareceram selecione o botão "organizador"
@@ -353,7 +336,7 @@ Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
 
 Permite o usuário logar em sua conta e iniciar o uso do restante do site (antes fica bloqueado). Os dados o usuário logado são passados pelo sessionStorage para as outras páginas.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Usuario ou Blocos]([#ti_ed_contatos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval))
 * **Instruções de acesso:**
   * Abra o site na tela principal e clique em login no canto superior direito. (será encaminhado para página de login)
   * Na página de login, preencha os dados solicitados e aperte enter para continuar
@@ -366,7 +349,7 @@ Permite o usuário logar em sua conta e iniciar o uso do restante do site (antes
 
 Permite a vizualização dinâmica da localização dos blocos cadastrados no site através da API do Google Maps inserida na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval))
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página do mapa clicando no icone de "casa" na barra lateral da página.
@@ -379,7 +362,7 @@ Permite a vizualização dinâmica da localização dos blocos cadastrados no si
 
 Permite a vizualização dinâmica da localização das denuncias feitas atraves do site e através da API do Google Maps inserida na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Denúncia](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---den%C3%BAncias)
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página de denuncia clicando no icone de "denuncia" na barra lateral da página.
@@ -392,7 +375,7 @@ Permite a vizualização dinâmica da localização das denuncias feitas atraves
 
 Permite a vizualização dinâmica dos comentarios feitas atraves do site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Comentários](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---coment%C3%A1rios)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo folião.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e clicar em saiba mais erferente ao bloco em que o usuario deseja realizar o comentario
@@ -405,7 +388,7 @@ Permite a vizualização dinâmica dos comentarios feitas atraves do site.
 
 Permite a vizualização e interação dinâmica dos comentarios feitas atraves do site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Comentários](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---coment%C3%A1rios)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo organizador.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página.
@@ -417,7 +400,7 @@ Permite a vizualização e interação dinâmica dos comentarios feitas atraves 
 
 Permite a publicação de fotos para incrementar a pagina do bloco no site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo organizador.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e acessar o botão "+" no canto inferior direito.
@@ -429,7 +412,7 @@ Permite a publicação de fotos para incrementar a pagina do bloco no site.
 
 Permite que o usuario edite algumas de suas informações armazenadas no site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo organizador.
   * Acessar a página do usuario clicando no icone de "usuario" na barra lateral da página.
@@ -441,7 +424,7 @@ Permite que o usuario edite algumas de suas informações armazenadas no site.
 
 Permite que o usuario edite algumas de suas informações armazenadas no site.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Usuários](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---usu%C3%A1rios-foli%)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo folião.
   * Acessar a página do usuario clicando no icone de "usuario" na barra lateral da página.
@@ -453,7 +436,7 @@ Permite que o usuario edite algumas de suas informações armazenadas no site.
 
 Permite que o usuario pesquise por blocos.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito pelo folião.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página.
@@ -465,7 +448,7 @@ Permite que o usuario pesquise por blocos.
 
 Permite o usuario sair da sua conta e vizualizar o clima e temperatura através da API do Google Maps inserida na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página principal da aplicação.
@@ -477,7 +460,6 @@ Permite o usuario sair da sua conta e vizualizar o clima e temperatura através 
 
 Permite o usuario realizar o cadasrto do bloco ou de folião.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
 * **Instruções de acesso:**
   * Garanta que o usuario quer criar uma conta.
   * Passar primeiramente pela tentativa de login
@@ -489,7 +471,7 @@ Permite o usuario realizar o cadasrto do bloco ou de folião.
 
 Permite o usuario saber mais sobre o bloco escolhido que o organizador inseriu na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral da página e selecionar o bloco em seguida clicar em "ver mais".
@@ -501,7 +483,7 @@ Permite o usuario saber mais sobre o bloco escolhido que o organizador inseriu n
 
 Permite o organizador editar e adicionar suas informações sobre o seu blovo que o mesmo inseriu na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Blocos](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---blocos-de-carnaval)
 * **Instruções de acesso:**
   * Garanta que o login foi feito por um organizador.
   * Acessar a página dos blocos clicando no icone de "folia" na barra lateral.
@@ -513,7 +495,7 @@ Permite o organizador editar e adicionar suas informações sobre o seu blovo qu
 
 Permite o organizador realizar uma denuncia e inserir na nossa aplicação.
 
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
+* **Estrutura de dados:** [Denuncai](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti1-2010200-hermes_sentry/tree/master/docs#estrutura-de-dados---den%C3%BAncias)
 * **Instruções de acesso:**
   * Garanta que o login foi feito.
   * Acessar a página das denuncias clicando no icone de "bandeira" na barra lateral.

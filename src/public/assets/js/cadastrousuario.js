@@ -1,11 +1,11 @@
 import { Usuarios } from "../../services/blocos-services.js";
 const usuarioService = new Usuarios();
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const formCadastro = document.querySelector('form');
     const jsonServerUrl = 'http://localhost:3000/usuarios';
 
-    formCadastro.addEventListener('submit', async function(e) {
+    formCadastro.addEventListener('submit', async function (e) {
         e.preventDefault();
 
         try {
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "contacts": [],
                 "groups": [],
                 "messages": []
-            }
+            };
 
             const usuarioSemId = {
                 nome_completo,
@@ -35,44 +35,33 @@ document.addEventListener('DOMContentLoaded', function() {
                 return;
             }
 
-            // Verifica se o e-mail já existe no JSON Server
-            const responseVerificaEmail = await fetch(`${jsonServerUrl}?email=${encodeURIComponent(email)}`);
-            if (!responseVerificaEmail.ok) {
-                throw new Error(`Erro ao verificar e-mail: ${responseVerificaEmail.statusText}`);
-            }
-            const usuariosComEmail = await responseVerificaEmail.json();
+            // Buscar todos os usuários para verificar e-mail e encontrar maior ID
+            const usuarios = await usuarioService.getUsuarios();
 
-            if (usuariosComEmail.length > 0) {
+            const emailJaExiste = usuarios.some(u => u.email === email);
+            if (emailJaExiste) {
                 alert('Este e-mail já está cadastrado!');
                 return;
             }
 
-            // Buscar todos os usuários para encontrar o maior ID
-            const responseTodosUsuarios = await usuarioService.getUsuarios();
-            if (!responseTodosUsuarios.ok) {
-                throw new Error(`Erro ao buscar usuários: ${responseTodosUsuarios.statusText}`);
-            }
-            const usuarios = await responseTodosUsuarios.json();
-
             const maiorId = usuarios.length > 0 ? Math.max(...usuarios.map(u => u.id)) : 0;
 
             const usuario = {
-                id: maiorId + 1,  // <<< Forçando ID sequencial
+                id: maiorId + 1,
                 ...usuarioSemId
             };
 
             // Adiciona o novo usuário via POST request
             const responseCadastro = await usuarioService.novoUsuario(usuario);
 
-            if (!responseCadastro.ok) {
-                const errorData = await responseCadastro.json().catch(() => null);
-                const errorMessage = errorData ? JSON.stringify(errorData) : responseCadastro.statusText;
-                throw new Error(`Erro ao cadastrar usuário: ${errorMessage}`);
+            if (responseCadastro && responseCadastro.id) {
+                alert(`Cadastro realizado com sucesso!`);
+                formCadastro.reset();
+                window.location.href = 'login.html';
+            } else {
+                const errorMessage = JSON.stringify(responseCadastro);
+                throw new Error(`Erro ao cadastrar usuário. Resposta da API: ${errorMessage}`);
             }
-
-            alert(`Cadastro realizado com sucesso! ID gerado: ${usuario.id}`);
-            formCadastro.reset();
-            window.location.href = 'login.html';
 
         } catch (error) {
             console.error('Erro:', error);

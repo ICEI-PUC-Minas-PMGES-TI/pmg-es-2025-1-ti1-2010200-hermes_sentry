@@ -98,12 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
     atualizarGaleria(imagens, legenda);
 
     
-    try {
-      await enviarLegendaParaServidor(legenda);
-    } catch (error) {
-      console.error('Erro ao enviar legenda:', error);
-      alert('Erro ao enviar legenda. Tente novamente.');
-    }
+    await enviarLegendaParaServidor(legenda);
 
     captionInput.disabled = true;
     textUploadBtn.disabled = true;
@@ -135,7 +130,7 @@ async function enviarImagemParaServidor(src) {
   // Atualizar o bloco no servidor
   const updateResponse = await blocoService.atualizarBloco(blocoId,bloco);
 
-  if (!updateResponse.ok) {
+  if (!updateResponse.id) {
     throw new Error('Falha ao atualizar bloco');
   }
 }
