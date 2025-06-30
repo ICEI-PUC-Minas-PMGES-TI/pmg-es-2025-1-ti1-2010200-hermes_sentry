@@ -302,7 +302,7 @@ O video a seguir tenta ilustrar um pouco da importância da nossa aplicação ap
 
 ## Apresentação do Projeto
 
-[![Vídeo do projeto](files/ApresentacaoIMG.png)](https://gamma.app/docs/Carna-Livre-c6op4p8p0dog3ky?mode=doc)
+[![Vídeo do projeto](files/Carna-Livre.pdf)](https://gamma.app/docs/Carna-Livre-c6op4p8p0dog3ky?mode=doc)
 
 ## Funcionalidades
 
