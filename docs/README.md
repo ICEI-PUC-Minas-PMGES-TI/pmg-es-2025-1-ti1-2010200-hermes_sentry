@@ -254,6 +254,7 @@ Tela de informações do bloco, permite que o organizador acesse e altere as con
 
 ### User Flow
 Ao entrar no site ele é direcionado a criar uma conta ou fazer login. Tendo opção entre dois tipos de perfil: Folião ou Organizador
+
 ![Fluxo de Telas](files/printFluxoTelas1.png)
 
 Fluxo de Telas para Foliões
@@ -261,6 +262,7 @@ Fluxo de Telas para Foliões
 ![](files/printFluxoTelas2.png)
 
 Fluxo de telas para Organizadores de bloco (algumas telas dos foliões estão disponíveis para eles)
+
 ![](files/printFluxoTelas3.png)
 
 ### Protótipo Interativo
