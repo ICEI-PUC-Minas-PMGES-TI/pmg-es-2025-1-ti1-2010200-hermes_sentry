@@ -226,17 +226,15 @@ Tela de consulta de blocos, permite que o organizador veja as informações cada
 
 Tela de denúncias, permite que o usuário realize uma denúncia.
 
-|  |  |
+| Mapa de denúncias | Formulário de denúncia |
 | ------ | ----- |
 | ![image](https://github.com/user-attachments/assets/19d44d7d-717a-4173-bb24-29b702eed542) | ![image](https://github.com/user-attachments/assets/8713d3d3-ef8b-444c-aa89-1732c8ed2995) |
 
 ##### TELA DE CONVERSAS
 
-Tela de conversas, permite que o usuário se conecte e converse com outros usuários.
+Tela de conversas, permite que o usuário se conecte e converse com outros usuários. Disponível apenas para usuário comum (folião).
 
-| Folião | Bloco |
-| ------ | ----- |
-| ![image](https://github.com/user-attachments/assets/f2778639-4a06-4652-8ac9-3c2b5f089299) | ![image](https://github.com/user-attachments/assets/cd19c9b3-e4ed-4ea3-ad06-d2070d3e83cf) |
+![image](https://github.com/user-attachments/assets/f2778639-4a06-4652-8ac9-3c2b5f089299)
 
 ##### TELA DE PERFIL
 
