@@ -300,7 +300,7 @@ Esta seção apresenta todos os detalhes da solução criada no projeto.
 
 O video a seguir tenta ilustrar um pouco da importância da nossa aplicação apresentando o contexto de onde tiramos a ideia para aplicação. Após isso temos uma visão geral de todas as funcionalidades implementadas ao longo de todo o tempo de desenvolvimento.
 
-[![Vídeo do projeto](files/videoCarnaLivre.mp4)](https://drive.google.com/file/d/1V2EU9eWwoIgVM4O7eAaRC25usyNK-P6I/view)
+[![Vídeo do projeto](files/bannercarnalivre.jpeg)](https://drive.google.com/file/d/1V2EU9eWwoIgVM4O7eAaRC25usyNK-P6I/view)
 
 ## Funcionalidades
 
