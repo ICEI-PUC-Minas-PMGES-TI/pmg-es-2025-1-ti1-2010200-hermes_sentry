@@ -356,11 +356,42 @@ nav {
 /* Filtros - Fim */
 
 @media (max-width: 768px) {
+    body {
+        padding-bottom: 70px;
+    }
     main {
         margin-left: 0;
+        border-radius: 0;
     }
     .barra-lateral {
-        display: none;
+        width: 100%;
+        height: 60px;
+        bottom: 0;
+        left: 0;
+        top: auto;
+        position: fixed;
+        z-index: 1000;
+        box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+        background-color: #0A8B9A;
+    }
+    .bl-icones {
+        height: 100%;
+    }
+    .bl-icones ul {
+        flex-direction: row !important;
+        justify-content: space-around;
+        align-items: center;
+        height: 100%;
+        margin: 0;
+    }
+    .bl-icones ul li,
+    .bl-icones ul li:not(.active):hover,
+    .bl-icones ul li.active {
+        margin: 0 !important;
+        width: auto;
+        height: auto;
+        padding: 10px;
+        border-radius: 50%;
     }
     #brpesquisa {
         display: none;
@@ -378,5 +409,8 @@ nav {
     }
     .cabecalho .d-flex {
         display: none !important;
+    }
+    .rodape {
+        display: none;
     }
 }

@@ -356,8 +356,80 @@ h1 {
   color: #333;
 }
 
+@media (max-width: 768px) {
+    body {
+        padding-bottom: 70px;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
 
+    main {
+        margin-left: 0;
+        padding: 15px;
+        border-radius: 0;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 
+    h1 {
+        font-size: 1.5rem;
+        margin-bottom: 20px;
+    }
 
+    #adicao-imagem {
+        flex-direction: column;
+        gap: 20px;
+        margin-bottom: 30px;
+    }
 
+    #text-section,
+    #image-section {
+        width: 100%;
+        max-width: 450px;
+    }
 
+    #caption-input,
+    .picture {
+        width: 100%;
+    }
+
+    .rodape {
+        display: none;
+    }
+
+    .barra-lateral {
+        width: 100%;
+        height: 60px;
+        bottom: 0;
+        left: 0;
+        top: auto;
+        position: fixed;
+        z-index: 1000;
+        background-color: #0A8B9A;
+    }
+
+    .bl-icones {
+        height: 100%;
+    }
+
+    .bl-icones ul {
+        flex-direction: row !important;
+        justify-content: space-around;
+        align-items: center;
+        height: 100%;
+        margin: 0;
+    }
+
+    .bl-icones ul li,
+    .bl-icones ul li:not(.active):hover,
+    .bl-icones ul li.active {
+        margin: 0 !important;
+        width: auto;
+        height: auto;
+        padding: 10px;
+        border-radius: 50%;
+    }
+}

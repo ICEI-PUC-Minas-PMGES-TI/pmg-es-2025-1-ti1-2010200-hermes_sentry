@@ -256,14 +256,6 @@ body, html {
     box-shadow: 0 0 5px rgba(25, 135, 84, 0.5);
 }
 
-/* Responsividade para mobile */
-@media (max-width: 768px) {
-    #map {
-        height: 80vh;  
-        border-radius: 0; 
-    }
-}
-
 /* Estilos do botão de denúncia */
 .denuncia-container {
     display: flex;
@@ -284,4 +276,87 @@ body, html {
 
 .botao-denuncia:hover {
     background-color: #ddd;
+}
+
+/* Responsividade para mobile */
+@media (max-width: 768px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        padding-bottom: 70px;
+    }
+
+    main {
+        margin-left: 0;
+        padding: 0;
+        border-radius: 0;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .map-container {
+        width: 100%;
+        flex-grow: 1;
+        position: relative;
+    }
+
+    #map {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        border-radius: 0; 
+    }
+
+    .denuncia-container {
+        margin: 15px 0;
+    }
+
+    .botao-denuncia {
+        padding: 15px 30px;
+        font-size: 16px;
+        width: 90%;
+        max-width: 400px;
+    }
+
+    footer {
+        display: none;
+    }
+
+    .barra-lateral {
+        width: 100%;
+        height: 60px;
+        bottom: 0;
+        left: 0;
+        top: auto;
+        position: fixed;
+        z-index: 1000;
+        box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+    }
+
+    .bl-icones {
+        height: 100%;
+    }
+
+    .bl-icones ul {
+        flex-direction: row !important;
+        justify-content: space-around;
+        align-items: center;
+        height: 100%;
+        margin: 0;
+    }
+
+    .bl-icones ul li,
+    .bl-icones ul li:not(.active):hover,
+    .bl-icones ul li.active {
+        margin: 0 !important;
+        width: auto;
+        height: auto;
+        padding: 10px;
+        border-radius: 50%;
+    }
 }
