@@ -302,6 +302,10 @@ O video a seguir tenta ilustrar um pouco da importância da nossa aplicação ap
 
 [![Vídeo do projeto](files/bannercarnalivre.jpeg)](https://drive.google.com/file/d/1V2EU9eWwoIgVM4O7eAaRC25usyNK-P6I/view)
 
+## Apresentação do Projeto
+
+[![Vídeo do projeto](files/ApresentacaoIMG.png)](https://gamma.app/docs/Carna-Livre-c6op4p8p0dog3ky?mode=doc)
+
 ## Funcionalidades
 
 Esta seção apresenta as funcionalidades da solução.Info
