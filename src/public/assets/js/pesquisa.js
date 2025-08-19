@@ -155,7 +155,7 @@ function criarCard(cardbloco) {
     let p = $('<p>').text(postagem.descricao_card);
     let i = $('<i>').html(`<i class="fa-solid fa-star"></i> ${cardbloco.avaliacao}`);
 
-    conteudo.append(img, i, h3, p);
+    conteudo.append(img, h3, i, p);
 
     let link = $('<a>').attr('href', 'paginablocos.html').attr('id', 'linkBloco').click(function () {
         sessionStorage.setItem('selectedBlocoId', cardbloco.id.toString());

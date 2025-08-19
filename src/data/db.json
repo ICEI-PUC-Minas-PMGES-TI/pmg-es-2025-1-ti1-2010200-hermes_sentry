@@ -3,9 +3,9 @@
     {
       "id": 1,
       "nome_bloco": "Filhos da PUC",
-      "descricao_geral": "O Bloco Filhos da PUC é uma das tradições mais animadas do Carnaval de Belo Horizonte, formado por uma bateria vibrante e energética composta por estudantes universitários. Com muita alegria, irreverência e espírito jovem, o bloco desfila pelas charmosas ruas do bairro Savassi, levando um repertório contagiante que mistura marchinhas clássicas com hits atuais. Conhecido por sua atmosfera descontraída e acolhedora, o bloco atrai tanto alunos da PUC quanto moradores da região e turistas, criando uma verdadeira festa democrática nas ruas. A cada ano, os participantes surpreendem com fantasias criativas e performances espontâneas que celebram a liberdade e a diversão típicas do carnaval.",
+      "descricao_geral": "O Bloco Filhos da PUC é um dos maiores blocos universitários do Carnaval de Belo Horizonte, criado por estudantes da PUC Minas em 2017. Com bateria formada por alunos da universidade, o bloco mistura ritmos como axé, funk, samba e pop, garantindo energia e diversidade musical. Seu desfile já reuniu centenas de milhares de foliões, arrastando multidões pelas principais avenidas da capital mineira. Além da festa, o bloco carrega mensagens sociais de inclusão, respeito e combate ao preconceito. Hoje, é referência na folia belo-horizontina, reunindo juventude, alegria e tradição carnavalesca.",
       "avaliacao": 4.5,
-      "data": "2026-02-13",
+      "data": "2026-02-15",
       "publico": 20000,
       "cep": "39442-218",
       "endereco": "R. Pernambuco - Savassi, Belo Horizonte - MG, 39442-218, Brasil",
@@ -27,19 +27,19 @@
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoFilhosDaPuc.jpeg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/FilhosDaPuc1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/FilhosDaPuc2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/FilhosDaPuc3.jpg"
             }
           ]
         }
@@ -47,17 +47,17 @@
     },
     {
       "id": 2,
-      "nome_bloco": "Unidos da Savassi",
-      "descricao_geral": "Tradicional no carnaval de BH, o Unidos da Savassi traz samba no pé e muita alegria no coração. Ideal para quem busca um desfile raiz.",
-      "avaliacao": 4.2,
-      "data": "2026-02-13",
-      "publico": 18000,
-      "cep": "30112-010",
-      "lat": -19.9386627,
-      "lng": -43.9349017,
-      "endereco": "Av. Cristóvão Colombo - Funcionários, Belo Horizonte - MG, Brasil",
-      "faixa_etaria": "12+",
-      "estilo_musical": "Samba",
+      "nome_bloco": "Então, Brilha!",
+      "descricao_geral": "O bloco 'Então Brilha' é uma das maiores e mais tradicionais agremiações carnavalescas de Belo Horizonte, fundado em 1997. Com seu lema 'O bloco que é da cidade, mas tem alma de rua', o Então Brilha se consolidou como um dos principais eventos do Carnaval mineiro, atraindo mais de 300 mil foliões anualmente. O bloco se destaca pela sua bateria poderosa, o 'Brilhaço', com mais de 150 ritmistas, e por um repertório que mistura marchinhas clássicas, samba, axé e pop. O desfile acontece no coração da Savassi, transformando as ruas em um grande palco de alegria e diversão. O bloco também é conhecido por suas ações sociais e por promover a cultura carnavalesca durante todo o ano através de ensaios abertos e eventos comunitários.",
+      "avaliacao": 4.7,
+      "data": "2026-02-14",
+      "publico": 350000,
+      "cep": "30360-000",
+      "endereco": "Av. Getúlio Vargas, 1500 - Savassi, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.931578,
+      "lng": -43.938183,
+      "estilo_musical": "Samba, Axé, Pop",
       "organizador": [
         {
           "nome_org": "Maria S. Lima",
@@ -68,23 +68,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Samba no pé, tradição e muita energia no coração da Savassi.",
+          "descricao_card": "A tradição que brilha no coração do Carnaval de BH!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoEntaoBrilha.jpeg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/EntaoBrilha1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/EntaoBrilha2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/EntaoBrilha3.jpg"
             }
           ]
         }
@@ -92,17 +92,17 @@
     },
     {
       "id": 3,
-      "nome_bloco": "Funk BH",
-      "descricao_geral": "Batidas marcantes e coreografias envolventes fazem do Funk BH uma das atrações mais animadas do carnaval belo-horizontino.",
+      "nome_bloco": "Baianas Ozadas",
+      "descricao_geral": "Fundado em 2013, o Baianas Ozadas é o maior bloco de inspiração baiana fora da Bahia e um dos pilares do Carnaval de Belo Horizonte. Em 2025, o bloco desfila com o tema 'Mulher, você gera o mundo: mais respeito, mais amor', celebrando os 40 anos do Axé Music e destacando a luta contra a violência de gênero. O cortejo inicia com a tradicional lavagem da escadaria da Igreja São José — uma homenagem ao ritual do Senhor do Bonfim em Salvador — e percorre a Avenida Afonso Pena com um repertório que mistura clássicos do axé, samba-reggae e novas composições autorais, como 'Yayá Marabô', em homenagem a Iemanjá. Com bateria energética, mamãe-sacodes (adereços típicos dos anos 70-90) e participações especiais como a cantora Fabiana Cozza, o bloco atrai multidões (mais de 100 mil foliões em edições anteriores) e resgata trajetos históricos, como o primeiro percurso do Clube Diabos de Luneta em 1899. Além da folia, o Baianas Ozadas promove ensaios abertos e ações sociais durante o ano, reforçando seu compromisso com a cultura e a ancestralidade afro-brasileira",
       "avaliacao": 3.8,
-      "data": "2026-02-14",
-      "publico": 22000,
-      "cep": "30110-042",
-      "lat": -19.9160247,
-      "lng": -43.9274703,
-      "endereco": "Av. do Contorno - Floresta, Belo Horizonte - MG, 30110-042, Brasil",
-      "faixa_etaria": "16+",
-      "estilo_musical": "Funk",
+      "data": "2026-02-13",
+      "publico": 150000,
+      "cep": "30130-000",
+      "endereco": "Av. Afonso Pena, 800 - Centro, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.919678,
+      "lng": -43.938742,
+      "estilo_musical": "Axé",
       "organizador": [
         {
           "nome_org": "Carlos M. Silva",
@@ -113,23 +113,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Batidão 150 BPM, energia contagiante e coreografias incríveis.",
+          "descricao_card": "Axé e resistência: o Carnaval baiano que brilha em BH!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoBainasOzadas.jpeg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/BaianasOzadas1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/BaianasOzadas2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/BaianasOzadas1.jpg"
             }
           ]
         }
@@ -137,17 +137,17 @@
     },
     {
       "id": 4,
-      "nome_bloco": "Axé das Gerais",
-      "descricao_geral": "Com sucessos do axé music, o bloco transforma as ruas em uma grande micareta à mineira, com muita dança e alto astral.",
+      "nome_bloco": "Bloco do Faraó",
+      "descricao_geral": "O Bloco do Faraó é uma celebração única que mistura a cultura egípcia com o axé baiano, homenageando o clássico 'Faraó' de Margareth Menezes. Fundado por entusiastas da música e da cultura afro-brasileira, o bloco transforma as ruas de BH em um verdadeiro cortejo de cores e tambores, com o tema 'Somos Todos Tambores e Cores'. O desfile inclui alas de dança temáticas, um abre-alas espetacular e uma bateria com dezenas de instrumentistas que executam arranjos inspirados nos ritmos do axé e do samba-reggae. Em 2023, o bloco reuniu milhares de foliões sob o Viaduto Santa Tereza, com fantasias que recriam elementos da realeza egípcia adaptados ao clima carnavalesco. Além da folia, o bloco promove oficinas de percussão e dança durante o ano, fortalecendo sua missão de unir diversão e representatividade cultural.",
       "avaliacao": 4.9,
-      "data": "2026-02-14",
+      "data": "2026-02-17", 
       "publico": 25000,
-      "cep": "30140-010",
-      "endereco": "Praça da Liberdade - Savassi, Belo Horizonte - MG, 30140-010, Brasil",
-      "lat": -19.9329185,
-      "lng": -43.938381,
-      "faixa_etaria": "+",
-      "estilo_musical": "Axé",
+      "cep": "30150-240",
+      "endereco": "Viaduto Santa Tereza, Centro, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.924583,
+      "lng": -43.935036,
+      "estilo_musical": "Axé, Samba",
       "organizador": [
         {
           "nome_org": "Fernanda Lopes",
@@ -158,23 +158,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Clima de Salvador com axé contagiante no coração de BH.",
+          "descricao_card": "Egito meets Bahia: um cortejo de cores, tambores e axé no coração de BH!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoFarao.jpeg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Farao1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Farao2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Farao3.jpg"
             }
           ]
         }
@@ -182,17 +182,17 @@
     },
     {
       "id": 5,
-      "nome_bloco": "Rock na Rua",
-      "descricao_geral": "Releituras de clássicos do rock em ritmo de carnaval, com guitarras e fantasia.",
+      "nome_bloco": "Bloco da Calixto",
+      "descricao_geral": "Pioneiro por ter a primeira frontwoman solo à frente de um grande bloco em BH, o Bloco da Calixto celebra em 2025 seu 10º desfile (em 12 anos de existência, com pausa em 2021-22 devido à pandemia) com o tema 'É 10!'. Comandado pela cantora Aline Calixto — carioca de coração mineiro —, o bloco revisita os sucessos de sua trajetória, desde 'África de todos os Deuses' (2014) até 'Superfantástico' (2024), incluindo temas como 'Bloco da Calixto nas Estrelas' e 'Divinas Divas'. Em 2025, o cortejo migra para a Avenida Amazonas (esquina com R. São Paulo), com sistema de sonorização do projeto Via das Artes, garantindo qualidade musical para os mais de 500 mil foliões esperados. A banda conta com sete músicos fixos e participações especiais como Gustavo Maguá e Tavinho Leoni, além da inovadora 'Corda Inclusiva' — espaço acessível para pessoas com deficiência. O bloco é marcado por histórias emocionantes, desde revelações de gravidez no trio elétrico até crianças que cresceram acompanhando a folia.",
       "avaliacao": 4,
-      "data": "2026-02-15",
-      "publico": 12000,
-      "cep": "30170-120",
-      "endereco": "Av. Afonso Pena - Belo Horizonte, MG, Brasil",
-      "lat": -19.9327534,
-      "lng": -43.9300262,
-      "faixa_etaria": "16+",
-      "estilo_musical": "Rock",
+      "data": "2026-02-18",
+      "publico": 500000,
+      "cep": "30150-000",
+      "endereco": "Av. Amazonas 1930, Centro, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.919678,
+      "lng": -43.938742,
+      "estilo_musical": "Axé, Pop",
       "organizador": [
         {
           "nome_org": "Rafael Mendes",
@@ -203,23 +203,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Rock and roll com marchinha e muito glitter. Venha escutar os melhores clássicos do nosso rock nacional e internacional",
+          "descricao_card": "A maior festa comandada por uma rainha do Carnaval de BH!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoCalixto.jpg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Calixto1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Calixto2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Calixto3.jpg"
             }
           ]
         }
@@ -227,17 +227,17 @@
     },
     {
       "id": 6,
-      "nome_bloco": "Batuque Feminino",
-      "descricao_geral": "Formado por mulheres percussionistas, o bloco celebra a força feminina com ritmos afro-brasileiros.",
+      "nome_bloco": "Havaynas Usadas",
+      "descricao_geral": "Fundado em 2017, o Bloco Havayanas Usadas rapidamente se tornou um dos mais queridos do Carnaval de Belo Horizonte, conhecido por sua proposta democrática e reverência à cultura popular. O bloco nasceu no bairro Sagrada Família (Região Leste) e hoje desfila pela Avenida dos Andradas, levando um repertório que mistura axé dos anos 1980-90 com MPB e ancestralidade africana. Em 2023, homenageou a produtora cultural Cris Gil, uma das fundadoras, com a música 'Coração de Batuqueiro', celebrando a essência dos ritmistas de BH. Com organização do vocalista Heleno Augusto, o bloco se destaca pela proposta de 'chinelo usado' - símbolo de simplicidade e acessibilidade - e pela missão de descentralizar o Carnaval, atraindo multidões para regiões fora do centro. Em edições anteriores, reuniu até 50 mil foliões e conta com participações especiais de blocos amigos como Juventude Bronzeada e Então Brilha.",
       "avaliacao": 4.6,
-      "data": "2026-02-15",
-      "publico": 10000,
-      "cep": "34585-310",
-      "endereco": "R. Rio de Janeiro - Belo Horizonte, MG, 34585-310, Brasil",
-      "lat": -19.9264479,
-      "lng": -43.9406468,
-      "faixa_etaria": "+",
-      "estilo_musical": "MPB",
+      "data": "2026-02-16",
+      "publico": 50000,
+      "cep": "30150-000",
+      "endereco": "Av. dos Andradas, Centro, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.924583,
+      "lng": -43.938183,
+      "estilo_musical": "Axé, MPB, Samba",
       "organizador": [
         {
           "nome_org": "Débora T. Cruz",
@@ -248,23 +248,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Batuque, resistência e alegria conduzida por mulheres.",
+          "descricao_card": "Democracia em forma de bloco: axé e ancestralidade!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoHavayanasUsadas.jpg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Havayanas1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Havayanas2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Havayanas3.jpg"
             }
           ]
         }
@@ -272,44 +272,44 @@
     },
     {
       "id": 7,
-      "nome_bloco": "Samba do Mercado",
-      "descricao_geral": "Saindo do coração do Mercado Central, o Samba do Mercado traz um repertório clássico do samba de raiz, animando os foliões com muito ritmo e tradição.",
-      "avaliacao": 4.3,
-      "data": "2026-02-13",
-      "publico": 9000,
-      "cep": "30110-000",
-      "endereco": "Av. Augusto de Lima - Centro, Belo Horizonte - MG, Brasil",
-      "lat": -19.9233115,
-      "lng": -43.94255649999999,
-      "faixa_etaria": "+",
-      "estilo_musical": "Samba",
+      "nome_bloco": "Quando Come Se Lambuza",
+      "descricao_geral": "O bloco 'Quando Come Se Lambuza' é um dos mais vibrantes e democráticos do Carnaval de Belo Horizonte, fundado em 2014 pelo mestre de bateria André Melado. Com o tema 'O Carnaval tem todos os ritmos. Só você tem o seu' em 2025, o bloco celebra a diversidade musical e a autenticidade, transformando a Avenida Afonso Pena em um palco de liberdade e alegria. A bateria 'Lambuzada', com 200 ritmistas, e uma ala de dança de 36 integrantes embalam o público com um repertório que mistura axé, funk, pop, sertanejo e pagode — a chamada 'Música Pra Pular Brasileira'. O bloco atrai multidões (em 2024, foram mais de 500 mil foliões) e destaca-se pela energia contagiante, fantasias criativas e participações especiais, como a cantora Joyce Alane em 2025. Com um compromisso com a sustentabilidade e a inclusão, o evento concentra-se às 9h e desfila até as 15h, criando uma experiência única que resgata o espírito jovem e acolhedor do carnaval mineiro",
+      "avaliacao": 4.8,
+      "data": "2026-02-14",
+      "publico": 500000,
+      "cep": "30130-000",
+      "endereco": "Av. Afonso Pena, 540 - Centro, Belo Horizonte - MG",
+      "lat": -19.919678,
+      "lng": -43.938742,
+      "faixa_etaria": "+16",
+      "estilo_musical": "Axé, Funk, Pop, Pagode",
       "organizador": [
         {
           "nome_org": "Tânia Moreira",
-          "email_org": "tania@sambadomercado.com",
-          "cnpj": "12.321.456/0001-01",
+          "email_org": "contato@quandocomeselambuza.com.br",
+          "cnpj": "98.765.432/0001-11",
           "senha": "mercado123"
         }
       ],
       "postagem": [
         {
-          "descricao_card": "O melhor do samba raiz saindo direto do Mercado Central, tradição e alegria garantidas.",
+          "descricao_card": "O Carnaval tem todos os ritmos. Só você tem o seu!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoQCSL.jpg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/QCSL1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/QCSL2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/QCLS3.jpg"
             }
           ]
         }
@@ -317,10 +317,10 @@
     },
     {
       "id": 8,
-      "nome_bloco": "Pagode no Asfalto",
-      "descricao_geral": "Um verdadeiro baile a céu aberto, o Pagode no Asfalto conquista os foliões com clássicos do pagode dos anos 90 e hits atuais, sempre com muita animação.",
+      "nome_bloco": "Abacabloco",
+      "descricao_geral": "A décima edição da folia mais querida de BH chega com tudo!Prepare-se para celebrar o Carnaval de rua com energia e diversidade musical: samba, sertanejo e todo tipo de música boa vão tomar as ruas da capital mineira. Em sua 10ª edição, o Abacabloco traz um line-up imperdível, com atrações que prometem fazer história. Serão momentos de alegria, tradição e inovação — reunindo foliões de todas as idades em um espaço democrático, vibrante e plural.",
       "avaliacao": 3.9,
-      "data": "2026-02-14",
+      "data": "2026-02-16",
       "publico": 1400,
       "cep": "30130-110",
       "endereco": "R. da Bahia - Belo Horizonte, MG, Brasil",
@@ -338,23 +338,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Hits do pagode anos 90 e atuais para um baile a céu aberto no asfalto de BH.",
+          "descricao_card": "A folia mais amada da cidade está de volta com um line-up histórico!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoAbacabloco.jpg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Abacabloco1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Abacabloco2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Abacabloco3.jpg"
             }
           ]
         }
@@ -362,17 +362,17 @@
     },
     {
       "id": 9,
-      "nome_bloco": "Cortejo do Amor",
-      "descricao_geral": "Celebrando a diversidade e a liberdade, o Cortejo do Amor é repleto de cores, glitter e mensagens de aceitação. Um dos blocos mais inclusivos de BH.",
+      "nome_bloco": "Bloco Show",
+      "descricao_geral": "O Bloco Show é uma das atrações mais esperadas do Carnaval de Belo Horizonte, conhecido por reunir os maiores sucessos do axé, pagode e pop em um só lugar. Fundado em 2010, o bloco se destaca por sua produção impecável, com trio elétrico de primeira linha, bateria potente e shows de artistas renomados. O desfile acontece na Avenida Afonso Pena, transformando o centro da cidade em um grande palco a céu aberto. Em 2025, o bloco promete superar os 100 mil foliões com um repertório que vai desde clássicos do Chiclete com Banana até os maiores hits do momento. O Bloco Show também é reconhecido por suas ações sociais, distribuindo ingressos solidários para comunidades carentes e promovendo a inclusão através da música e da dança.",
       "avaliacao": 5,
-      "data": "2026-02-14",
-      "publico": 22000,
-      "cep": "30150-010",
-      "endereco": "Av. Álvares Cabral - Belo Horizonte, MG, Brasil",
-      "lat": -19.9293453,
-      "lng": -43.9438103,
-      "faixa_etaria": "18+",
-      "estilo_musical": "Eletrônica, Pop",
+      "data": "2026-02-17",
+      "publico": 100000,
+      "cep": "30130-000",
+      "endereco": "Av. Afonso Pena, 1000 - Centro, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.919678,
+      "lng": -43.938742,
+      "estilo_musical": "Axé, Samba, Pop",
       "organizador": [
         {
           "nome_org": "Luciana Dias",
@@ -383,23 +383,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Glitter, cores e inclusão! O bloco mais diverso e vibrante do carnaval belo-horizontino.",
+          "descricao_card": "O maior show do Carnaval de BH: axé, pagode e muita energia!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoBlocoShow.jpg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/BlocoShow1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/BlocoShow2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/BlocoShow3.jpg"
             }
           ]
         }
@@ -407,17 +407,17 @@
     },
     {
       "id": 10,
-      "nome_bloco": "Coração de Tambor",
-      "descricao_geral": "Inspirado nas tradições afro-brasileiras, o Coração de Tambor mistura música, dança e espiritualidade em uma celebração poderosa e ancestral.",
+      "nome_bloco": "Haja Amor",
+      "descricao_geral": "Fundado em 2017 em Divinópolis e com forte atuação em Belo Horizonte, o Bloco Haja Amor é uma celebração de amor, respeito e diversidade, inspirado no Carnaval de BH, o terceiro maior do mundo. Com uma bateria de 170 integrantes — considerada a maior do Centro-Oeste mineiro — o bloco mistura axé, samba, pop, rock e MPB em seu repertório, atraindo multidões. Em 2025, o bloco desfila na Rua Sergipe, 719, na Savassi, consolidando sua presença no coração do Carnaval belo-horizontino. Além de animar os foliões, o Haja Amor promove oficinas de percussão e valoriza a cultura carnavalesca, mantendo viva a tradição do carnaval de rua. Em edições anteriores, o bloco já reuniu mais de 20 mil pessoas na Avenida Brasil, destacando-se pela energia contagiante e pela inclusão de artistas locais em seu repertório.",
       "avaliacao": 4.7,
-      "data": "2026-02-15",
-      "publico": 16000,
-      "cep": "30110-042",
-      "endereco": "Av. do Contorno - Belo Horizonte, MG, 30110-042, Brasil",
-      "lat": -19.9177246,
-      "lng": -43.9464643,
-      "faixa_etaria": "+",
-      "estilo_musical": "Axé, Samba, Afro-Beat",
+      "data": "2026-02-18",
+      "publico": 20000,
+      "cep": "30130-000",
+      "endereco": "Rua Sergipe, 719 - Savassi, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.931578,
+      "lng": -43.938183,
+      "estilo_musical": "Axé, Samba, Pop, Rock, MPB",
       "organizador": [
         {
           "nome_org": "João Lucas Ribeiro",
@@ -428,23 +428,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Celebração afro-brasileira com muita percussão e espiritualidade nas ruas de BH.",
+          "descricao_card": "Amor, respeito e diversidade no ritmo da maior bateria do Centro-Oeste mineiro!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoHajaAmor.jpg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/HajaAmor1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/HajaAmor2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/HajaAmor3.jpg"
             }
           ]
         }
@@ -452,17 +452,17 @@
     },
     {
       "id": 11,
-      "nome_bloco": "Brega BH",
-      "descricao_geral": "Com muito romantismo e exagero, o Brega BH leva os clássicos do brega e do popular brasileiro para o meio da folia. Glitter, perucas e declarações de amor não faltam!",
-      "avaliacao": 4.1,
-      "data": "2026-02-15",
-      "publico": 1000,
-      "cep": "30120-060",
-      "endereco": "R. Curitiba - Centro, Belo Horizonte - MG, Brasil",
-      "lat": -19.919693,
-      "lng": -43.94155749999999,
-      "faixa_etaria": "16+",
-      "estilo_musical": "Sertanejo",
+      "nome_bloco": "Baianeiros",
+      "descricao_geral": "Celebrando 10 anos em 2025, o Bloco Baianeiros é uma fusão vibrante da cultura baiana com a alegria mineira, criado pelo baiano Lelo Lobão (ex-baixista do Chiclete com Banana) e o mineiro Danniel Maestri. O bloco desfila em dois dias: no domingo (02/03) no bairro Castelo (Av. Altamiro Avelino Soares, 121) e na terça-feira (04/03) no Centro (Av. Amazonas, 553), arrastando multidões com seu trio elétrico e repertório que mistura axé, forró, pagode e até sertanejo. Em 2025, lança a música tema 'Pam Pam', com influências latinas e africanas, e recebe os convidados Bruno Gouveia (Biquini) e Izabella Brant. Com histórico de 350 mil foliões em edições anteriores, o Baianeiros consagrou-se como um dos maiores blocos de BH, mantendo suas raízes no Castelo, onde realizou seu primeiro desfile em 2015.",
+      "avaliacao": 4.7,
+      "data": "2026-02-15", 
+      "publico": 350000,
+      "cep": "31310-000", 
+      "endereco": "Av. Altamiro Avelino Soares, 121 - Castelo / Av. Amazonas, 553 - Centro, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.850000, 
+      "lng": -43.966667,
+      "estilo_musical": "Axé, Samba, Sertanejo, MPB",
       "organizador": [
         {
           "nome_org": "Cláudia R. Souza",
@@ -473,23 +473,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Romantismo exagerado e músicas bregas inesquecíveis para quem ama se jogar na sofrência.",
+          "descricao_card": "10 anos unindo Bahia e Minas: trio elétrico e o maior Carnaval de BH!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoBaianeiros.jpg" 
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Baianeiros1.jpeg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Baianeiros2.jpeg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Baianeiros3.jpeg"
             }
           ]
         }
@@ -497,17 +497,17 @@
     },
     {
       "id": 12,
-      "nome_bloco": "Bloco do Vinil",
-      "descricao_geral": "Voltado aos amantes dos clássicos, o Bloco do Vinil traz um repertório recheado de hits dos anos 70, 80 e 90, com DJs e foliões caracterizados de época.",
+      "nome_bloco": "Bloco Micareteiros",
+      "descricao_geral": "O Bloco Micareteiros é uma das atrações mais vibrantes do Carnaval de Belo Horizonte, especializado em trazer o clima da micareta baiana para as ruas da capital mineira. Com um repertório que mistura axé, pagode e marchinhas carnavalescas, o bloco desfila na Savassi, um dos bairros mais animados da cidade, atraindo milhares de foliões com sua energia contagiante. Em 2025, o bloco se apresenta no dia 1º de março, às 10h, na Rua Professor Moraes, 226, reforçando sua tradição de levar alegria e diversão para todos os públicos. O Micareteiros também participa de eventos pré-carnavalescos, como o 'Baile à Fantasia', realizado em parceria com outros blocos da cidade.",
       "avaliacao": 4.4,
-      "data": "2026-02-16",
-      "publico": 13000,
-      "cep": "30190-001",
-      "endereco": "Av. Amazonas - Nova Suíça, Belo Horizonte - MG, Brasil",
-      "lat": -19.9295953,
-      "lng": -43.9776843,
-      "faixa_etaria": "+",
-      "estilo_musical": "Pop",
+      "data": "2026-02-15",
+      "publico": 15000,
+      "cep": "30130-000",
+      "endereco": "Rua Professor Moraes, 226 - Savassi, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.931578,
+      "lng": -43.938183,
+      "estilo_musical": "Axé, Samba",
       "organizador": [
         {
           "nome_org": "Marcelo V. Torres",
@@ -518,23 +518,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Clássicos dos anos 70, 80 e 90 com foliões fantasiados e muito flashback no carnaval.",
+          "descricao_card": "O axé da Bahia invadindo as ruas de BH com muita energia e folia!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoMicareteiros.jpg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Micareteiros1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Micareteiros2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Micareteiros3.jpg"
             }
           ]
         }
@@ -542,17 +542,17 @@
     },
     {
       "id": 13,
-      "nome_bloco": "Bloco do Jazz",
-      "descricao_geral": "Com arranjos elaborados e instrumentos de sopro, o Bloco do Jazz apresenta uma experiência sonora refinada e contagiante, misturando improviso e marchinha.",
+      "nome_bloco": "Funk You",
+      "descricao_geral": "O Bloco Funk You é uma das atrações mais originais do Carnaval de Belo Horizonte, fundado em dezembro de 2016 por Lucas Moraes e um grupo de amigos que buscavam trazer o ritmo do funk para a folia mineira. Com uma proposta inovadora de misturar a batida do funk com instrumentos de escola de samba, o bloco rapidamente se tornou um fenômeno, atraindo multidões (chegando a 300 mil foliões em edições recentes). Em 2025, o bloco celebra 8 anos com uma homenagem especial à Furacão 2000, produtora que revolucionou o funk brasileiro, recriando a atmosfera dos icônicos paredões de som em seu desfile na Avenida Amazonas. Além do trio elétrico tradicional, o bloco conta com a 'Gaiola das Popozudas' e a 'Ala do Passinho', conhecida por suas coreografias contagiantes. O Funk You também se destaca por suas ações culturais, como oficinas gratuitas de dança e customização de abadás, promovendo inclusão social e sustentabilidade.",
       "avaliacao": 4.8,
-      "data": "2026-02-17",
-      "publico": 8000,
-      "cep": "30110-002",
-      "endereco": "Praça Sete de Setembro - Centro, Belo Horizonte - MG, 30110-002, Brasil",
-      "lat": -19.9189954,
-      "lng": -43.9386306,
-      "faixa_etaria": "+",
-      "estilo_musical": "Pop",
+      "data": "2026-02-14",
+      "publico": 300000,
+      "cep": "30150-000",
+      "endereco": "Avenida Amazonas, 553 - Centro, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.924583,
+      "lng": -43.938183,
+      "estilo_musical": "Funk, Pop, Samba",
       "organizador": [
         {
           "nome_org": "Eduardo L. Reis",
@@ -563,23 +563,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Improviso, instrumentos de sopro e marchinhas com uma pegada jazz sofisticada.",
+          "descricao_card": "O funk em sua essência: batida pesada e a maior festa de rua de BH!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoFunkYou.jpeg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/FunkYou1.jpeg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/FunkYou2.jpeg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/FunkYou3.jpeg"
             }
           ]
         }
@@ -587,17 +587,17 @@
     },
     {
       "id": 14,
-      "nome_bloco": "Bloco dos Mixturados",
-      "descricao_geral": "Misturando diversos estilos musicais e influências culturais, o Bloco dos Mixturados atrai um público diverso em busca de um carnaval plural e democrático.",
+      "nome_bloco": "Juventude Bronzeada",
+      "descricao_geral": "Fundado em 2014 a partir de uma banda homônima criada em 2011, o Bloco Juventude Bronzeada é uma celebração da cultura brasileira e um manifesto político que transforma as ruas de BH em palco de resistência. Em 2025, o bloco desfila com o tema 'A Vida Presta' — inspirado na frase da atriz Fernanda Torres — reforçando mensagens de solidariedade, justiça social e defesa do patrimônio mineiro, como a Serra do Curral. Com um repertório que mistura axé dos anos 1980-90, MPB e músicas autorais do EP 'Pra Gente Não Desgrudar', o bloco inova com um naipe de vozes exclusivamente feminino e a participação do rapper FBC. A bateria, formada por 500 percussionistas anuais através de projetos de musicalização, é um dos maiores orgulhos do bloco, que já formou mais de 5 mil músicos desde sua criação. Concentrando-se na Avenida Assis Chateaubriand, no bairro Floresta, o Juventude Bronzeada atrai multidões (50 mil foliões em 2025) com seus estandartes temáticos contra o assédio, pela tarifa zero no transporte público e justiça para as vítimas de Mariana e Brumadinho.",
       "avaliacao": 4.2,
-      "data": "2026-02-18",
-      "publico": 15000,
-      "cep": "30180-010",
-      "endereco": "Rua dos Guajajaras - Belo Horizonte, MG, Brasil",
-      "lat": -19.923992,
-      "lng": -43.94542149999999,
-      "faixa_etaria": "+",
-      "estilo_musical": "Axé, Samba, MPB",
+      "data": "2026-02-17",
+      "publico": 50000,
+      "cep": "30150-000",
+      "endereco": "Avenida Assis Chateaubriand, 127 - Floresta, Belo Horizonte - MG",
+      "faixa_etaria": "Livre",
+      "lat": -19.924583,
+      "lng": -43.938183,
+      "estilo_musical": "Axé, MPB",
       "organizador": [
         {
           "nome_org": "Renata B. Silva",
@@ -608,23 +608,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "Um caldeirão de estilos e ritmos para quem gosta de um carnaval democrático e diverso.",
+          "descricao_card": "Axé e protesto: o bloco que transforma BH em um Carnaval político e vibrante!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoJuventudeBronzeada.jpg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Juventude1.jpg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Juventude2.jpg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/Juventude3.jpg"
             }
           ]
         }
@@ -632,10 +632,10 @@
     },
     {
       "id": 15,
-      "nome_bloco": "Techno no Asfalto",
-      "descricao_geral": "O carnaval eletrônico de BH! O Techno no Asfalto transforma avenidas em pistas de dança com DJs e efeitos visuais impressionantes.",
+      "nome_bloco": "Bloco Chama O Sindico",
+      "descricao_geral": "O Bloco Chama o Síndico é uma das maiores celebrações carnavalescas do Brasil, criado em 2012 para homenagear dois ícones da música nacional: Tim Maia e Jorge Ben Jor. Desde sua estreia, o desfile já reuniu mais de 100 mil pessoas no centro da cidade, em uma explosão de ritmos, cores e alegria. Seguindo o trio, o público é embalado por uma mistura contagiante de samba, funk, afoxé, xote, soul, carimbó e reggae power, traduzindo em música a diversidade cultural brasileira. O Chama o Síndico é mais que um bloco: é um encontro de gerações e estilos, celebrando a força da música popular e o espírito democrático do Carnaval de rua.",
       "avaliacao": 4.6,
-      "data": "2026-02-18",
+      "data": "2026-02-15",
       "publico": 900,
       "cep": "30111-000",
       "endereco": "Av. Getúlio Vargas - Belo Horizonte, MG, Brasil",
@@ -653,23 +653,23 @@
       ],
       "postagem": [
         {
-          "descricao_card": "DJs e batidas eletrônicas transformando BH numa pista de dança futurista no carnaval.",
+          "descricao_card": "O começo oficial do melhor Carnaval do Brasil!",
           "imagens": [
             {
               "id": 1,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/LogoChamaOSIndico.jpeg"
             },
             {
               "id": 2,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/ChamaOSindico1.jpeg"
             },
             {
               "id": 3,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/ChamaOSindico2.jpeg"
             },
             {
               "id": 4,
-              "src": "../assets/img/blocoexemplo.jpg"
+              "src": "../assets/img/ChamaOSindico3.jpeg"
             }
           ]
         }
