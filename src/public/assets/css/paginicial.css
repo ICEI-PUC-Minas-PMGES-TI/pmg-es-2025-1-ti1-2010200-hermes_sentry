@@ -230,4 +230,16 @@ main {
     .navbar-brand img {
         height: 60px;
     }
+    
+    #cta{
+        width: 100%;
+    }
+
+    #cta .title{
+        font-size: 2rem;
+    }
+
+    #cta .description{
+        text-align: justify;
+    }
 }
